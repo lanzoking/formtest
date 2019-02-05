@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+form{
+  width: 500px;
+}
+
+form {
+  margin: 0 auto;
+  display: block;
+  margin-top: 20px;
+  width: 600px;
+  }
+   
+  fieldset {
+  border-radius: 25px;
+  }
+   
+  button {
+  color: black;
+  font-family: Georgia;
+  font-size: 30px;
+  border-radius: 10px;
+  align-content: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  }
+   
+  label, .form-group a {
+  color: black;
+  font-family: Georgia;
+  font-size: 25px;
+  }
+   
+  form table input {
+  border: none;
+  border: solid 1px #ccc;
+  border-radius: 15px;
+  font-size: 20px;
+  }
+
+  .labelcolor{
+    color: white;
+  }
+
+  .image{
+    border-radius: 20px;
+  }
